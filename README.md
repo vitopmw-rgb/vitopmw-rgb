@@ -1,29 +1,59 @@
-<h2 align="center">Hey 👋 Bem-vindo ao meu Lab de Código 💻</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,git,docker,linux" height="60" alt="Tech Stack" />
-</div>
-
-###
+<h1 align="center">Opa, bão? Eu sou o Victor 🦄</h1>
+<h3 align="center"><i>"Transformando café em ansiedade e bugs em features desde 2006"</i> ☕</h3>
 
 <div align="center">
-  <a href="https://instagram.com/seu_instagram_aqui">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://media.tenor.com/ZARBViZffU4AAAAM/hd-smirk.gif" width="300" />
 </div>
 
-###
+---
+
+### 💻 Minha Stack (Linguagens & Fontes de Renda)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,django,ruby,html,css,linux,cpp,cs" height="50" alt="Linguagens" style="vertical-align: middle;" />
+  
+  <img src="https://img.shields.io/badge/-FF5500?style=for-the-badge&logo=lock&logoColor=white" height="50" alt="Privacy" style="vertical-align: middle; margin-left: 5px;" />
+</div>
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Minecraft-Construtor_de_Terra-333333?style=for-the-badge&logo=minecraft&logoColor=2E8B57" height="30" />
+  <img src="https://img.shields.io/badge/Roblox-Viciado-000000?style=for-the-badge&logo=roblox&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Free_Fire-Mestre_do_Capa-FF8C00?style=for-the-badge&logo=fire&logoColor=white" height="30" />
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vitopmw-rgb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=vitopmw-rgb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://img.shields.io/badge/Certificado-GAMBIARRA-red?style=for-the-badge&logo=tools&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copy_%26_Paste-Stack_Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Funciona_na-Minha_Máquina-blue?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-###
+---
 
+### 🧐 Sobre Mim (Versão Honesta)
+* 💊 **Combustível:** Movido à base de **Venvanse** (autodiagnosticado com TDAH Premium™ pelo TikTok).
+* 🤝 **Equipe:** Tenho um ajudante chamado **Miguel**. É ele quem escreve os bugs, eu só levo a culpa.
+* 🔭 **Atualmente trabalhando em:** Um robô para criar vídeos sozinho porque a preguiça venceu.
+* 🌱 **Aprendendo:** Como sair do Vim sem ter que desligar o PC da tomada.
+* ⚡ **Curiosidade:** Eu acho que sei Python, mas na verdade eu só sei dar `import` e rezar.
+
+---
+
+### 🚀 O Grande Plano: "A Fábrica de Dinheiro" (Shorts)
+Estou criando um sistema que pega vídeos longos e transforma em **dinheiro** (digo, shorts virais) automaticamente.
+
+* **Como funciona:** Magia negra, Python e muita fé.
+* **Tecnologias:** `Ctrl+C` do ChatGPT + `Ctrl+V` no VS Code.
+
+---
+
+<div align="center">
+  <h3>📊 Estatísticas de Sofrimento</h3>
+  <img src="https://streak-stats.demolab.com?user=vitopmw-rgb&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=vitopmw-rgb&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+### 🐍 Cobra Comedora de Commit (Pac-Man)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitopmw-rgb/vitopmw-rgb/output/pacman-contribution-graph-dark.svg">
@@ -31,24 +61,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitopmw-rgb/vitopmw-rgb/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
----
-
-### 🛠️ O que estou construindo: "A Fábrica de Shorts"
-Estou desenvolvendo um **pipeline de automação de vídeo** que transforma conteúdos longos (YouTube/Podcasts) em vídeos curtos virais (9:16) de forma 100% automática.
-
-**⚙️ A Arquitetura do Projeto:**
-`Vídeo Bruto` ➤ **n8n** (Orquestração) ➤ **Python + AI** (Corte & Transcrição) ➤ **FFmpeg** (Renderização) ➤ `Shorts Pronto`
-
-**🔧 Tech Stack do Projeto:**
-* **Core:** Python (Manipulação de dados e lógica).
-* **Mídia:** FFmpeg (Crop 9:16, hardsub de legendas dinâmicas).
-* **AI:** Modelos de Transcrição (Whisper) e Diarização.
-* **Infra:** Integração via APIs e processamento em Nuvem (GPU).
-
----
-
-### ⚡ Estudos Atuais
-* 🎯 Aprofundando em **Lógica de Programação** e Estruturas de Dados (Listas, Dicionários).
-* ☁️ Explorando arquitetura de **Cloud & DevOps** para escalar a produção de vídeos.
-* 🏋️‍♂️ Aplicando disciplina de atleta no código: constância e otimização.
