@@ -1,79 +1,148 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Opa%2C+b%C3%A3o%3F+Eu+sou+o+Victor+%F0%9F%A6%84;Bugando+c%C3%B3digo+desde+2006;Autodiagnosticado+com+TDAH+Premium" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://media.tenor.com/ZARBViZffU4AAAAM/hd-smirk.gif" width="300" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" />
-</div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Victor%20Emanuel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Backend%20%7C%20Automation&descAlignY=58&descSize=18&descColor=a0a0c0&animation=fadeIn" width="100%"/>
 
-<h3 align="center">💻 Minha Stack (Linguagens & Fontes de Renda)</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,django,html,linux,cs" height="50" alt="Linguagens" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Privacy-FF5500?style=for-the-badge&logo=lock&logoColor=white" height="50" alt="Privacy" style="vertical-align: middle; margin-left: 5px;" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://img.shields.io/badge/Minecraft-Construtor_de_Terra-333333?style=for-the-badge&logo=minecraft&logoColor=2E8B57" height="30" />
-  <img src="https://img.shields.io/badge/Roblox-Viciado-000000?style=for-the-badge&logo=roblox&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Free_Fire-Mestre_do_Capa-FF8C00?style=for-the-badge&logo=fire&logoColor=white" height="30" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Certificado-GAMBIARRA-red?style=for-the-badge&logo=tools&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copy_%26_Paste-Stack_Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Funciona_na-Minha_Máquina-blue?style=for-the-badge&logo=linux&logoColor=white" />
-</div>
-
----
-
-### 🧐 Sobre Mim
-* 💊 **Combustível:** Movido à base de **Venvanse** (autodiagnosticado com TDAH Premium™ pelo TikTok).
-* 🤝 **Equipe:** Tenho um ajudante chamado **Miguel**. É ele quem escreve os bugs, eu só levo a culpa.
-* 🔭 **Atualmente trabalhando em:** Um robô para criar vídeos sozinho porque a preguiça venceu.
-* 🌱 **Aprendendo:** Como sair do Vim sem ter que desligar o PC da tomada.
-* ⚡ **Curiosidade:** Eu acho que sei Python, mas na verdade eu só sei dar `import` e rezar.
-
----
-
-### 🚀 O Grande Plano: "A Fábrica de Dinheiro" (Shorts)
-Estou criando um sistema que pega vídeos longos e transforma em **dinheiro** (digo, shorts virais) automaticamente.
-
-* **Como funciona:** Magia negra, Python e muita fé.
-* **Tecnologias:** `Ctrl+C` do ChatGPT + `Ctrl+V` no VS Code.
-
----
-
-<div align="center">
-  <h3>📊 Estatísticas de Sofrimento</h3>
-  
-  <p>
-    <img src="https://streak-stats.demolab.com?user=vitopmw-rgb&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
-  </p>
-  
-  <p>
-    <img src="https://github-profile-trophy.vercel.app?username=vitopmw-rgb&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="160" alt="trophy graph" />
-  </p>
-</div>
-
-<br/>
-
-<h3 align="center">🐛 Monitor de Atividade Paranormal</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitopmw-rgb&theme=react-dark&hide_border=true&area=true&custom_title=Batimentos%20enquanto%20codifico" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Selo%20de%20Qualidade-GAMBIARRA%20APPROVED-brightgreen?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <br/><br/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60" />
-  <br>
-  <i>(Eu fingindo que estou trabalhando)</i>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=9D8CF7&center=true&vCenter=true&width=500&lines=Building+software+that+solves+real+problems.;Backend+%7C+Automation+%7C+AI+Integration.;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/vito.pmw%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vito.pmw@gmail.com)
+&nbsp;
+[![Brazil](https://img.shields.io/badge/Brazil-🌎_Open_to_Relocation-14213d?style=for-the-badge)](https://github.com/vitopmw-rgb)
+
+</div>
+
+---
+
+<br/>
+
+## `$ whoami`
+
+```python
+victor = {
+    "role"    : "Software Engineering Student",
+    "focus"   : ["Backend Development", "Automation", "AI Integration"],
+    "approach": "Turn real-world problems into systems that actually ship.",
+    "learning": ["Cloud Architecture", "Data Science", "System Design"],
+    "goal"    : "Build products used internationally.",
+    "status"  : "Open to opportunities 🟢"
+}
+```
+
+<br/>
+
+---
+
+## `$ ls ./stack`
+
+<div align="center">
+
+| Core | Cloud & Infra | AI & Automation |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) |
+
+</div>
+
+<br/>
+
+---
+
+## `$ cat ./projects`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Ecotourism Platform
+
+Full-stack official tourism portal for an ecotourism
+region in Brazil — multilingual (PT / EN / ES), with
+accommodation listings, booking flow, partner
+onboarding, event calendar, and government
+verification integration.
+
+`Next.js` · `Supabase` · `Vercel` · `i18n`
+
+**Status:** 🔨 In development
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 AI Video Automation Pipeline
+
+Production-grade n8n workflow (100+ nodes) that
+transforms long-form videos into publish-ready shorts.
+Transcribes with **Deepgram**, generates scripts via
+**Gemini AI Agent**, creates voiceover with
+**ElevenLabs**, cuts and assembles with **AWS Lambda**,
+and stores assets on **GCS** and **S3**.
+
+`n8n` · `AWS` · `Google Cloud` · `Deepgram` · `ElevenLabs`
+
+**Status:** 🔨 In active development
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `$ cat ./education`
+
+<br/>
+
+🎓 &nbsp;**Software Engineering** — Ulbra *(in progress)*
+
+<br/>
+
+**Certifications**
+
+| Issuer | Course |
+|--------|--------|
+| Santander Open Academy | Software & Technology Program — 2025 |
+| IE University | Introduction to Data Science |
+| Google | Master AI with Gemini |
+| Microsoft Founderz | Responsible Prompting & AI for Business |
+| — | Python Fundamentals & Practical Applications |
+
+<br/>
+
+---
+
+## `$ git log --oneline`
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vitopmw-rgb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D8CF7&icon_color=9D8CF7&text_color=c9d1d9&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vitopmw-rgb&theme=tokyonight&hide_border=true&background=0d1117&ring=9D8CF7&fire=9D8CF7&currStreakLabel=9D8CF7" height="165"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
 </div>
